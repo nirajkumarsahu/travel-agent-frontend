@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24" class="navigation-icon">
+    <defs>
+        <path id="navigation-a" d="M21.702 2.303c-.3-.299-.7-.398-1.1-.2L1.6 11.06c-.4.2-.6.597-.6.995s.3.796.8.896l7.401 1.89 1.9 7.364c.1.398.5.696.9.796h.1c.4 0 .7-.199.9-.597l9.001-18.906c.1-.498 0-.896-.3-1.194z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="navigation-b" fill="#fff">
+            <use xlink:href="#navigation-a"/>
+        </mask>
+        <use fill-rule="nonzero" xlink:href="#navigation-a" class="navigation-fill"/>
+        <g mask="url(#navigation-b)">
+            <path d="M0 0h24v24H0z"/>
+        </g>
+    </g>
+</svg>

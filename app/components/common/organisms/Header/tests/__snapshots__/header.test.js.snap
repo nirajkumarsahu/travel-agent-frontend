@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Test Cases should render correctly 1`] = `
+<header
+  className="testClass"
+>
+  <Link
+    href="/"
+  >
+    <a>
+      Home
+    </a>
+  </Link>
+  <Link
+    href="/about"
+  >
+    <a>
+      About
+    </a>
+  </Link>
+</header>
+`;

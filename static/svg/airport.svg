@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Airport</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-299.000000, -43.000000)" fill="#75767C" fill-rule="nonzero">
+            <g id="Airport" transform="translate(307.000000, 51.000000) scale(1, -1) rotate(90.000000) translate(-307.000000, -51.000000) translate(299.000000, 43.000000)">
+                <path d="M16,7.62352941 C16,6.98352941 15.44,6.42352941 14.8,6.42352941 L10.4,6.42352941 L6.4,0.0235294118 L4.8,0.0235294118 L6.8,6.42352941 L2.4,6.42352941 L1.2,4.82352941 L0,4.82352941 L0.8,7.62352941 L0,10.4235294 L1.2,10.4235294 L2.4,8.82352941 L6.8,8.82352941 L4.8,15.2235294 L6.4,15.2235294 L10.4,8.82352941 L14.8,8.82352941 C15.44,8.82352941 16,8.26352941 16,7.62352941 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg class="svg" viewBox="0 0 67 66" id="reward-icon">
+<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="Log-in-1" transform="translate(-20.000000, -133.000000)">
+<g id="Group-66" transform="translate(19.593750, 133.000000)">
+<circle id="Oval-2" fill="#0057E7" opacity="0.1" transform="translate(33.855078, 32.999796) scale(-1, 1) translate(-33.855078, -32.999796) " cx="33.8550781" cy="32.9997958" r="33"></circle>
+<g id="Giftbox" transform="translate(19.960341, 17.599796)" stroke="#3C3C3C" stroke-linecap="round" stroke-linejoin="round">
+<rect id="Rectangle-1873" fill="#008744" x="0" y="8.4" width="27.6" height="7.2"></rect>
+<rect id="Rectangle-1874" fill="#FFA700" x="10.2" y="8.4" width="7.2" height="7.2"></rect>
+<path d="M1.8,15.6 L25.8,15.6 L25.8,29.7679719 C25.8,31.5529717 24.3527405,33 22.5632532,33 L5.03674679,33 C3.2491409,33 1.8,31.5464137 1.8,29.7679719 L1.8,15.6 Z" id="Rectangle-1873" fill="#008744"></path>
+<rect id="Rectangle-1875" fill="#FFA700" x="11.4" y="15.6" width="4.8" height="17.4"></rect>
+<ellipse id="Oval-1647" transform="translate(17.100000, 4.800000) rotate(-30.000000) translate(-17.100000, -4.800000) " cx="17.1" cy="4.8" rx="4.5" ry="2.4"></ellipse>
+<ellipse id="Oval-1647" transform="translate(11.100000, 4.800000) scale(-1, 1) rotate(-30.000000) translate(-11.100000, -4.800000) " cx="11.1" cy="4.8" rx="4.5" ry="2.4"></ellipse>
+</g>
+<g id="Group-55" transform="translate(11.000000, 6.599796)">
+<g id="Group-58" opacity="0.3" transform="translate(0.000000, 7.700000)" stroke="#8D8D8D">
+<path d="M3.0019043,0.0751953125 L3.93217773,4.87695312" id="Path-2"></path>
+<path d="M1.06616211,2.94121094 L5.86791992,2.0109375" id="Path-2"></path>
+</g>
+<polygon id="Star-52" stroke="#8D8D8D" stroke-width="0.7" opacity="0.3" stroke-linecap="round" stroke-linejoin="round" transform="translate(39.650061, 13.250061) rotate(-13.000000) translate(-39.650061, -13.250061) " points="39.6500615 14.2730615 38.8250615 14.6790034 38.7641175 13.7615615 38.0000615 13.2500615 38.7641175 12.7385615 38.8250615 11.8211196 39.6500615 12.2270615 40.4750615 11.8211196 40.5360055 12.7385615 41.3000615 13.2500615 40.5360055 13.7615615 40.4750615 14.6790034"></polygon>
+<circle id="Oval-3" stroke="#8D8D8D" opacity="0.3" cx="1.65" cy="31.35" r="1.65"></circle>
+<circle id="Oval-3" stroke="#8D8D8D" opacity="0.3" cx="46.2" cy="25.3" r="1.1"></circle>
+<circle id="Oval-3" fill="#8D8D8D" opacity="0.2" cx="34.1" cy="1.1" r="1.1"></circle>
+<path d="M21.5466797,4.13896484 L21.5466797,6.44542732" id="Path-3" stroke="#8D8D8D" stroke-width="0.7" opacity="0.3"></path>
+<path d="M16.6231237,4.26465953 L18.2946167,6.95543213" id="Path-3" stroke="#8D8D8D" stroke-width="0.7" opacity="0.3"></path>
+<path d="M24.3231237,4.26465953 L25.9946167,6.95543213" id="Path-3" stroke="#8D8D8D" stroke-width="0.7" opacity="0.3" transform="translate(25.158870, 5.610046) scale(-1, 1) translate(-25.158870, -5.610046) "></path>
+</g>
+</g>
+</g>
+</g>
+</svg>

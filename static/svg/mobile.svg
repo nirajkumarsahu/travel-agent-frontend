@@ -1,0 +1,15 @@
+<svg class="header-mob" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24">
+    <defs>
+        <path id="mob-a" d="M13 0H3C1.3 0 0 1.3 0 3v16c0 1.7 1.3 3 3 3h10c1.7 0 3-1.3 3-3V3c0-1.7-1.3-3-3-3zm1 19c0 .6-.4 1-1 1H3c-.6 0-1-.4-1-1V3c0-.6.4-1 1-1h10c.6 0 1 .4 1 1v16zm-5.3-2.7c.2.2.3.5.3.7 0 .3-.1.5-.3.7-.2.2-.4.3-.7.3-.1 0-.3 0-.4-.1-.1 0-.2-.1-.3-.2-.2-.2-.3-.4-.3-.7 0-.1 0-.3.1-.4.1-.1.1-.2.2-.3.4-.4 1-.4 1.4 0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(4 1)">
+        <mask id="mob-b" fill="#fff">
+            <use xlink:href="#mob-a"/>
+        </mask>
+        <use fill="#000" fill-rule="nonzero" xlink:href="#mob-a"/>
+        <g fill="#FFF" mask="url(#mob-b)">
+            <path d="M-4-1h24v24H-4z"/>
+        </g>
+    </g>
+</svg>
+

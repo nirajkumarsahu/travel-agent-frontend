@@ -1,0 +1,1 @@
+exports.PROPERTY_PAGE = '/propertyPage/:id';

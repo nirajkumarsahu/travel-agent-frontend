@@ -1,0 +1,29 @@
+<svg class="svg" viewBox="0 0 67 66" id="manage-booking-icon">
+<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="Log-in-1" transform="translate(-20.000000, -336.000000)">
+<g id="Group-69" transform="translate(19.593750, 336.000000)">
+<g id="Group-55" transform="translate(7.700000, 4.399796)">
+<g id="Group-58" opacity="0.3" transform="translate(4.400000, 7.700000)" stroke="#8D8D8D">
+<path d="M3.0019043,0.0751953125 L3.93217773,4.87695312" id="Path-2"></path>
+<path d="M1.06616211,2.94121094 L5.86791992,2.0109375" id="Path-2"></path>
+</g>
+<polygon id="Star-52" stroke="#8D8D8D" stroke-width="0.7" opacity="0.3" stroke-linecap="round" stroke-linejoin="round" transform="translate(44.050061, 13.250061) rotate(-13.000000) translate(-44.050061, -13.250061) " points="44.0500615 14.2730615 43.2250615 14.6790034 43.1641175 13.7615615 42.4000615 13.2500615 43.1641175 12.7385615 43.2250615 11.8211196 44.0500615 12.2270615 44.8750615 11.8211196 44.9360055 12.7385615 45.7000615 13.2500615 44.9360055 13.7615615 44.8750615 14.6790034"></polygon>
+<circle id="Oval-3" stroke="#8D8D8D" opacity="0.3" cx="1.65" cy="31.35" r="1.65"></circle>
+<circle id="Oval-3" stroke="#8D8D8D" opacity="0.3" cx="50.6" cy="25.3" r="1.1"></circle>
+<circle id="Oval-3" fill="#8D8D8D" opacity="0.2" cx="38.5" cy="1.1" r="1.1"></circle>
+<path d="M25.9466797,4.13896484 L25.9466797,6.44542732" id="Path-3" stroke="#8D8D8D" stroke-width="0.7" opacity="0.3"></path>
+<path d="M21.0231237,4.26465953 L22.6946167,6.95543213" id="Path-3" stroke="#8D8D8D" stroke-width="0.7" opacity="0.3"></path>
+<path d="M28.7231237,4.26465953 L30.3946167,6.95543213" id="Path-3" stroke="#8D8D8D" stroke-width="0.7" opacity="0.3" transform="translate(29.558870, 5.610046) scale(-1, 1) translate(-29.558870, -5.610046) "></path>
+</g>
+<circle id="Oval-2" fill="#D62D20" opacity="0.1" cx="33.8550781" cy="32.9997958" r="33"></circle>
+<g id="Group-59" transform="translate(16.500000, 16.499796)">
+<rect id="Rectangle-1501" stroke="#314E55" fill="#FFA700" stroke-linecap="round" stroke-linejoin="round" x="0" y="11.2075472" width="33" height="18.0566038"></rect>
+<path d="M10.4622642,0.5 L10.4622642,3.4245283 C10.4622642,5.03747003 11.7704679,6.3490566 13.3806114,6.3490566 L19.6193886,6.3490566 C21.2340624,6.3490566 22.5377358,5.04172263 22.5377358,3.4245283 L22.5377358,0.5 L10.4622642,0.5 Z" id="Rectangle-1503" stroke="#314E55" transform="translate(16.500000, 3.424528) rotate(-180.000000) translate(-16.500000, -3.424528) "></path>
+<path d="M13.6981132,14.3207547 L19.3018868,14.3207547" id="Line" stroke="#314E55" stroke-linecap="square" stroke-linejoin="round"></path>
+<rect id="Rectangle-1501" stroke="#314E55" fill="#FFA700" stroke-linecap="round" stroke-linejoin="round" x="0" y="6.22641509" width="33" height="4.98113208"></rect>
+</g>
+</g>
+</g>
+</g>
+</svg>
+

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 180 40">
+    <g filter="url(#logo-a)">
+        <mask id="logo-b" width="19" height="24" x="70" y="10" maskUnits="userSpaceOnUse">
+            <path fill="#fff" fill-rule="evenodd" d="M70.732 11.35c0-.222.19-.411.414-.411h.668a.4.4 0 0 1 .414.41v9.691h14.293v-9.69a.42.42 0 0 1 .414-.411h.669a.4.4 0 0 1 .413.41v21.277a.4.4 0 0 1-.413.41h-.669a.42.42 0 0 1-.414-.41v-10.26H72.228v10.26a.4.4 0 0 1-.413.41h-.669a.42.42 0 0 1-.414-.41V11.35z" clip-rule="evenodd"/>
+        </mask>
+        <g mask="url(#logo-b)">
+            <path fill="#fff" fill-rule="evenodd" d="M68.586 8.81h21.578v26.355H68.585V8.81z" clip-rule="evenodd"/>
+        </g>
+        <mask id="logo-c" width="24" height="24" x="91" y="10" maskUnits="userSpaceOnUse">
+            <path fill="#fff" fill-rule="evenodd" d="M102.739 31.962c5.57 0 10.091-4.42 10.091-9.944 0-5.524-4.521-10.006-10.091-10.006-5.57 0-10.059 4.482-10.059 10.006 0 5.525 4.489 9.944 10.059 9.944zm0-21.34c6.398 0 11.491 5.083 11.491 11.396 0 6.346-5.093 11.333-11.491 11.333-6.366 0-11.46-4.987-11.46-11.333 0-6.313 5.094-11.395 11.46-11.395z" clip-rule="evenodd"/>
+        </mask>
+        <g mask="url(#logo-c)">
+            <path fill="#fff" fill-rule="evenodd" d="M89.133 8.494h27.243V35.48H89.133V8.494z" clip-rule="evenodd"/>
+        </g>
+        <mask id="logo-d" width="15" height="24" x="113" y="10" maskUnits="userSpaceOnUse">
+            <path fill="#fff" fill-rule="evenodd" d="M119.822 12.296h-6.081c-.318 0-.413-.189-.413-.473v-.474a.4.4 0 0 1 .413-.41h13.689a.4.4 0 0 1 .414.41v.537a.4.4 0 0 1-.414.41h-6.112v20.33c0 .22-.191.41-.51.41h-.572a.42.42 0 0 1-.414-.41v-20.33z" clip-rule="evenodd"/>
+        </mask>
+        <g mask="url(#logo-d)">
+            <path fill="#fff" fill-rule="evenodd" d="M111.181 8.81h18.809v26.355h-18.809V8.81z" clip-rule="evenodd"/>
+        </g>
+        <mask id="logo-e" width="15" height="24" x="130" y="10" maskUnits="userSpaceOnUse">
+            <path fill="#fff" fill-rule="evenodd" d="M130.839 11.35c0-.222.19-.411.414-.411h12.765a.42.42 0 0 1 .413.41v.537a.42.42 0 0 1-.413.41h-11.651v8.713h10.091c.223 0 .413.19.413.41v.537c0 .221-.19.41-.413.41h-10.091v9.344h11.651a.42.42 0 0 1 .413.41v.506a.42.42 0 0 1-.413.41h-12.765a.419.419 0 0 1-.414-.41V11.35z" clip-rule="evenodd"/>
+        </mask>
+        <g mask="url(#logo-e)">
+            <path fill="#fff" fill-rule="evenodd" d="M128.692 8.81h17.886v26.355h-17.886V8.81z" clip-rule="evenodd"/>
+        </g>
+        <mask id="logo-f" width="13" height="24" x="148" y="10" maskUnits="userSpaceOnUse">
+            <path fill="#fff" fill-rule="evenodd" d="M148.294 11.35a.42.42 0 0 1 .415-.411h.7c.191 0 .382.19.382.41V31.71h10.155c.381 0 .413.19.413.41v.569c0 .22-.191.347-.413.347h-11.237a.42.42 0 0 1-.415-.41V11.35z" clip-rule="evenodd"/>
+        </mask>
+        <g mask="url(#logo-f)">
+            <path fill="#fff" fill-rule="evenodd" d="M146.148 8.81h16.358v26.355h-16.358V8.81z" clip-rule="evenodd"/>
+        </g>
+        <mask id="logo-g" width="14" height="24" x="162" y="10" maskUnits="userSpaceOnUse">
+            <path fill="#fff" fill-rule="evenodd" d="M162.207 30.1l.286-.379c.223-.252.446-.347.7-.125.32.283 2.675 2.43 5.89 2.43 2.896 0 5.348-1.926 5.348-4.23 0-2.81-2.324-4.073-6.176-5.367-3.692-1.294-6.144-2.588-6.144-6.219 0-2.367 1.91-5.587 6.876-5.587 3.152 0 5.475 1.61 5.475 1.61.128.094.351.316.128.663a2.93 2.93 0 0 0-.255.41c-.19.253-.381.347-.7.158-.095-.063-2.228-1.483-4.68-1.483-3.915 0-5.379 2.398-5.379 4.198 0 2.683 2.069 3.85 5.284 4.893 4.361 1.484 7.131 2.999 7.131 6.66 0 3.157-3.279 5.62-6.94 5.62-3.788 0-6.335-2.21-6.749-2.59-.191-.157-.35-.315-.095-.662z" clip-rule="evenodd"/>
+        </mask>
+        <g mask="url(#logo-g)">
+            <path fill="#fff" fill-rule="evenodd" d="M159.928 8.494h18.209V35.48h-18.209V8.494z" clip-rule="evenodd"/>
+        </g>
+        <path fill="#202360" fill-rule="evenodd" d="M30.018 14.61c-4.427 0-6.702 3.787-6.702 7.13 0 3.786 2.843 6.887 6.702 6.887 3.736 0 6.58-2.9 6.58-7.049 0-4.631-3.371-6.967-6.58-6.967zm11.697 18.206H36.76v-2.78c-1.706 2.015-5.037 3.506-7.88 3.506-5.808 0-10.966-4.592-10.966-12.044 0-6.847 5.036-11.802 11.292-11.802 4.589 0 7.31 3.263 7.473 3.585h.081v-2.82h4.955v22.355z" clip-rule="evenodd"/>
+        <mask id="logo-h" width="25" height="25" x="17" y="9" maskUnits="userSpaceOnUse">
+            <path fill="#fff" fill-rule="evenodd" d="M30.018 14.61c-4.427 0-6.702 3.787-6.702 7.13 0 3.786 2.843 6.887 6.702 6.887 3.736 0 6.58-2.9 6.58-7.049 0-4.631-3.371-6.967-6.58-6.967zm11.697 18.206H36.76v-2.78c-1.706 2.015-5.037 3.506-7.88 3.506-5.808 0-10.966-4.592-10.966-12.044 0-6.847 5.036-11.802 11.292-11.802 4.589 0 7.31 3.263 7.473 3.585h.081v-2.82h4.955v22.355z" clip-rule="evenodd"/>
+        </mask>
+        <g mask="url(#logo-h)">
+            <path fill="#fff" fill-rule="evenodd" d="M15.767 7.568h28.094V35.67H15.767V7.568z" clip-rule="evenodd"/>
+        </g>
+        <mask id="logo-i" width="25" height="31" x="43" y="3" maskUnits="userSpaceOnUse">
+            <path fill="#fff" fill-rule="evenodd" d="M55.39 28.627c3.533 0 6.498-2.698 6.498-7.048s-3.168-6.968-6.58-6.968c-4.143 0-6.701 3.464-6.701 6.726 0 4.954 3.614 7.29 6.783 7.29zM43.53 3.01h5.402v9.465c1.868-1.852 4.508-2.778 7.026-2.778 6.865 0 11.333 5.92 11.333 11.841 0 4.471-2.966 12.003-11.21 12.003-4.347 0-6.256-1.934-7.596-3.424v2.7h-4.956V3.01z" clip-rule="evenodd"/>
+        </mask>
+        <g mask="url(#logo-i)">
+            <path fill="#fff" fill-rule="evenodd" d="M41.383.882h28.054V35.67H41.383V.882z" clip-rule="evenodd"/>
+        </g>
+        <path fill="#202C60" fill-rule="evenodd" d="M18.808 2.005a8.728 8.728 0 0 0-7.234 3.813 8.576 8.576 0 0 0-1.483 4.628H4.009v4.696h6.074v17.61h5.366V10.656c0-.467.093-.899.262-1.296a3.36 3.36 0 0 1 3.097-2.035h2.462V2.005h-2.462z" clip-rule="evenodd"/>
+        <mask id="logo-j" width="18" height="31" x="4" y="2" maskUnits="userSpaceOnUse">
+            <path fill="#fff" fill-rule="evenodd" d="M18.808 2.005a8.728 8.728 0 0 0-7.234 3.813 8.576 8.576 0 0 0-1.483 4.628H4.009v4.696h6.074v17.61h5.366V10.656c0-.467.093-.899.262-1.296a3.36 3.36 0 0 1 3.097-2.035h2.462V2.005h-2.462z" clip-rule="evenodd"/>
+        </mask>
+        <g mask="url(#logo-j)">
+            <path fill="#fff" fill-rule="evenodd" d="M1.863-.124h21.553V34.88H1.863V-.124z" clip-rule="evenodd"/>
+        </g>
+    </g>
+    <defs>
+        <filter id="logo-a" width="181.412" height="41.093" x="-.164" y="-.308" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+            <feOffset dy="2"/>
+            <feGaussianBlur stdDeviation="2"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+            <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
+            <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+        </filter>
+    </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24" class="locationLine-icon">
+    <defs>
+        <path id="location-line-a" d="M12 0C6.5 0 2 4.5 2 10c0 7.4 9.1 13.6 9.4 13.8.2.1.4.2.6.2.2 0 .4-.1.6-.2.3-.2 9.4-6.4 9.4-13.8 0-5.5-4.5-10-10-10zm0 21.8c-1.9-1.4-8-6.4-8-11.8 0-4.4 3.6-8 8-8s8 3.6 8 8c0 5.4-6.1 10.4-8 11.8zM12 6c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4zm0 6c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="location-line-b" fill="#fff">
+            <use xlink:href="#location-line-a"/>
+        </mask>
+        <use fill="#000" fill-rule="nonzero" xlink:href="#location-line-a"/>
+        <g fill="#101217" mask="url(#location-line-b)" class="locationLine-fill">
+            <path d="M0 0h24v24H0z"/>
+        </g>
+    </g>
+</svg>

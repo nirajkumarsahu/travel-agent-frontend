@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 88 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Silver Coin</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#EE482A" offset="0%"></stop>
+            <stop stop-color="#FFE2DD" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="44" cy="44" r="44"></circle>
+        <circle id="path-4" cx="32" cy="32" r="32"></circle>
+        <circle id="path-6" cx="32" cy="32" r="32"></circle>
+        <circle id="path-8" cx="25.4117647" cy="25.4117647" r="25.4117647"></circle>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-10">
+            <stop stop-color="#EE482A" offset="0%"></stop>
+            <stop stop-color="#FFE2DD" offset="100%"></stop>
+        </linearGradient>
+        <path d="M25.4117647,50.8235294 C31.9343204,50.8235294 37.8829187,48.3661255 42.3822266,44.3266504 L9.16825129,5.86850118 C7.24558498,7.46829704 5.56272975,9.34645007 4.18154746,11.4410984 C1.53836916,15.4496418 0,20.2510506 0,25.4117647 C0,39.4462948 11.3772346,50.8235294 25.4117647,50.8235294 Z" id="path-11"></path>
+        <path d="M14.0517647,0.289505417 C12.9270588,0.289129412 11.8428235,0.516988235 10.8611765,0.929129412 C9.38823529,1.54757647 8.14117647,2.57449412 7.25835294,3.87049412 C6.41129412,5.11256471 5.904,6.61637647 5.86541176,8.21656471 L0.154352941,8.21656471 L0.154352941,12.6258824 L5.85788235,12.6258824 L5.85788235,29.1619765 L10.8969412,29.1619765 L10.8969412,8.41487059 C10.8969412,7.97590588 10.9844706,7.57063529 11.1435294,7.19764706 C11.3807059,6.63952941 11.7844706,6.15670588 12.2889412,5.81929412 C12.7962353,5.48150588 13.3891765,5.28724706 14.0517647,5.2864 L16.3632941,5.2864 L16.3632941,0.289505417 L14.0517647,0.289505417 Z" id="path-13"></path>
+    </defs>
+    <g id="Web-SBTL---Visual-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Normal--web" transform="translate(-166.000000, -1728.000000)">
+            <g id="5" transform="translate(0.000000, 1624.000000)">
+                <g id="Group-50">
+                    <g id="Card-1" transform="translate(120.000000, 88.000000)">
+                        <g id="Silver-Coin" transform="translate(46.000000, 16.000000)">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <use id="Mask" fill-opacity="0.45" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                            <g id="Silve-Fab-Coin" mask="url(#mask-3)">
+                                <g transform="translate(12.000000, 12.000000)">
+                                    <g id="Group-47">
+                                        <mask id="mask-5" fill="white">
+                                            <use xlink:href="#path-4"></use>
+                                        </mask>
+                                        <use id="Mask" fill-opacity="0.45" fill="url(#linearGradient-1)" xlink:href="#path-4"></use>
+                                        <mask id="mask-7" fill="white">
+                                            <use xlink:href="#path-6"></use>
+                                        </mask>
+                                        <use id="Mask" fill-opacity="0.45" fill="url(#linearGradient-1)" xlink:href="#path-6"></use>
+                                    </g>
+                                    <g id="Group-46" transform="translate(6.588235, 6.588235)">
+                                        <mask id="mask-9" fill="white">
+                                            <use xlink:href="#path-8"></use>
+                                        </mask>
+                                        <use id="Mask" fill-opacity="0.45" fill="url(#linearGradient-1)" xlink:href="#path-8"></use>
+                                        <mask id="mask-12" fill="white">
+                                            <use xlink:href="#path-11"></use>
+                                        </mask>
+                                        <use id="Mask" fill-opacity="0.45" fill="url(#linearGradient-10)" xlink:href="#path-11"></use>
+                                        <g id="Clipped" transform="translate(16.941176, 11.294118)">
+                                            <mask id="mask-14" fill="white">
+                                                <use xlink:href="#path-13"></use>
+                                            </mask>
+                                            <g id="Path"></g>
+                                            <polygon id="Path" fill="#FFFFFF" mask="url(#mask-14)" points="-1.86070588 -1.70955294 18.3792941 -1.70955294 18.3792941 31.1603765 -1.86070588 31.1603765"></polygon>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
